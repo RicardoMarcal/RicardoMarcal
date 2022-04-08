@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Ricardo 👋</h1>
-<p align="center">I’m interested in everything related to web development, currently learning NextJs and SQL and looking to be more active in the development community 💙</p>
+<p align="center">I’m interested in everything related to web development, currently learning Prisma and TypeScript and looking to be more active in the development community 💙</p>
 <br />
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
