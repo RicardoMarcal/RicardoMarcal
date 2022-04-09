@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I’m Ricardo 👋</h1>
-<p align="center">I’m interested in everything related to web development, currently learning Prisma and TypeScript and looking to be more active in the development community 💙</p>
+<p align="center">I’m interested in everything related to web development, currently learning Elixir and TypeScript and looking to be more active in the development community 💙</p>
 <br />
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
@@ -10,6 +10,7 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
     <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40" /> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
+    <a href="http://elixir-lang.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/64/elixir_lang_logo_icon_169207.png" alt="elixir" width="40" height="40" /> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
     <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" /> </a>
