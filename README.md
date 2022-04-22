@@ -9,6 +9,8 @@
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://ricardomarcal.github.io/images/ReactJs.png" alt="reactjs" width="40" height="40" /> </a>
     <a href="https://nextjs.org/" target="_blank"> <img src="https://ricardomarcal.github.io/images/NextJs.png" alt="nextjs" width="40" height="40" /> </a>
+    <a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="reactjs" width="40" height="40" /> </a>
+    <a href="https://nuxtjs.org/" target="_blank"> <img src="https://nuxtjs.org/design-kit/colored-logo.svg" alt="nextjs" width="40" height="40" /> </a>
     <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
     <a href="https://styled-components.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styled components" width="40" height="40" /> </a>
     <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
@@ -20,7 +22,6 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express" width="40" height="40" /> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40" /> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
     <br />
     <br />
