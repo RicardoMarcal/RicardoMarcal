@@ -30,7 +30,8 @@
     <br />
     <br />
     <a>
-    <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoMarcal&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="RicardoMarcal" /></div>
+    <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoMarcal&show_icons=true&locale=en&theme=prussian&include_all_commits=true" alt="RicardoMarcal" /></div>
+    </div>
     <br />
     <br />
     <div align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=RicardoMarcal&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="RicardoMarcal" /></div>
