@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I’m Ricardo 👋</h1>
+<h1 align="center">Hi, I’m Ricardo ☂️</h1>
 <p align="center">I’m interested in everything related to web development, currently learning the languages TypeScript and Elixir and the frameworks Next, Nuxt and Phoenix, and looking to be more active in the development community 💙</p>
 <br />
 <h2 align="center">Languages and Tools:</h2>
