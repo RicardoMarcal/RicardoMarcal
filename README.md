@@ -9,7 +9,7 @@
    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /> </a>
    <a href="https://reactjs.org/" target="_blank"> <img src="https://ricardomarcal.github.io/images/ReactJs.png" alt="reactjs" width="40" height="40" /> </a>
    <a href="https://nextjs.org/" target="_blank"> <img src="https://ricardomarcal.github.io/images/NextJs.png" alt="nextjs" width="40" height="40" /> </a>
-   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
+   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind css" width="40" height="40" /> </a>
    <a href="https://styled-components.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styled components" width="40" height="40" /> </a>
    <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
@@ -28,7 +28,8 @@
    <a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40" /> </a>
    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" /> </a>
    <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" /> </a>
-   <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="html5" width="40" height="40" /> </a>
+   <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40" /> </a>
+   <a href="https://www.docker.com/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="40" height="40" /> </a>
    <br />
    <br />
    <br />
