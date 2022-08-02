@@ -1,6 +1,6 @@
 <a href="https://github.com/RicardoMarcal/RicardoMarcal/tree/english">English version</a>
 <h1 align="center">Olá, eu sou o Ricardo ☂️</h1>
-<p>Tenho interesse em tudo relacionado ao desenvolvimento web. Atualmente estou aprendendo JavaScript/TypeScript (e às vezes Elixir 🤫) e as frameworks React/Next, Vue/Nuxt e Adonis. Sempre tento ser ativo na comunidade de programação 💙</p>
+<p>Tenho interesse em tudo relacionado ao desenvolvimento web. Atualmente estou estudando JavaScript/TypeScript (e às vezes Elixir 🤫) e as frameworks React/Next, Vue/Nuxt e Adonis. Sempre tento ser ativo na comunidade de programação 💙</p>
 
 <br />
 
