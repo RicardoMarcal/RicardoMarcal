@@ -1,6 +1,6 @@
 <a href="https://github.com/RicardoMarcal/">Versão em português</a>
 <h1 align="center">Hi, I'm Ricardo ☂️</h1>
-<p>I'm interested in everything related to web development. I'm currently studying JavaScript/TypeScript (and sometimes Elixir 🤫) and the frameworks React/Next, Vue/Nuxt and Adonis. I always try to be active in the development community 💙</p>
+<p>I'm interested in everything related to web development. I'm currently studying JavaScript/TypeScript (and sometimes Elixir 🤫) and the frameworks React/Next, Vue/Nuxt and Adonis. I always try to be active in the programming community 💙</p>
 
 <br />
 
