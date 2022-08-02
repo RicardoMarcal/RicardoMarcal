@@ -1,11 +1,11 @@
-<a href="https://github.com/RicardoMarcal/">Versão em português</a>
-<h1 align="center">Hi, I'm Ricardo ☂️</h1>
-<p>I'm interested in everything related to web development. I'm currently studying JavaScript/TypeScript (and sometimes Elixir 🤫) and the frameworks React/Next, Vue/Nuxt and Adonis. I always try to be active in the development community 💙</p>
+<a href="https://github.com/RicardoMarcal/RicardoMarcal/tree/english">English version</a>
+<h1 align="center">Olá, eu sou o Ricardo ☂️</h1>
+<p>Tenho interesse em tudo relacionado ao desenvolvimento web. Atualmente estou aprendendo JavaScript/TypeScript (e às vezes Elixir 🤫) e as frameworks React/Next, Vue/Nuxt e Adonis. Sempre tento ser ativo na comunidade de desenvolvimento 💙</p>
 
 <br />
 
 <div align="center">
-    <h2>Languages and Tools:</h2>
+    <h2>Linguagens e ferramentas:</h2>
     <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
     </a>
@@ -53,7 +53,7 @@
    <!--a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="40" height="40" /> </a-->
 
    <br />
-   <h2 align="center">Looking to Learn:</h2>
+   <h2 align="center">Buscando aprender:</h2>
     <a href="https://vuejs.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" alt="vuejs" width="40" height="40" />
     </a>
