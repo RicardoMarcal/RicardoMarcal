@@ -50,7 +50,7 @@
     <a href="https://www.mysql.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
     </a>
-   <!--a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="40" height="40" /> </a-->
+   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="40" height="40" /> </a>
 
    <br />
    <h2 align="center">Looking to Learn:</h2>
@@ -91,7 +91,7 @@
     <div align="center"><img width="512" align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoMarcal&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="RicardoMarcal" /></div>
     <br />
     <br />
-    <div align="center"><img width="512" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoMarcal&show_icons=true&locale=en&layout=compact&theme=prussian&langs_count=6" alt="RicardoMarcal" /></div>
+    <div align="center"><img width="512" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoMarcal&show_icons=true&locale=en&layout=compact&theme=prussian&langs_count=8" alt="RicardoMarcal" /></div>
     <br />
     <br />
     <div align="center"><img width="512" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=RicardoMarcal&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="RicardoMarcal" /></div>
