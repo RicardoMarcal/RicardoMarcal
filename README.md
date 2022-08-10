@@ -6,7 +6,7 @@
 
 <div align="center">
     <h2>Linguagens e ferramentas:</h2>
-    <a href="https://www.w3.org/html/" target="_blank">
+    <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40" />
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank">
@@ -88,13 +88,11 @@
 <br />
 
 <a href="https://github.com/RicardoMarcal/">
-    <div align="center"><img width="512" align="center" src="https://github-readme-stats.vercel.app/api?username=RicardoMarcal&show_icons=true&locale=en&theme=prussian&include_all_commits=true&count_private=true" alt="RicardoMarcal" /></div>
+    <div align="center"><img width="448" src="https://github-readme-stats.vercel.app/api?username=RicardoMarcal&show_icons=true&locale=en&theme=gotham&include_all_commits=true&count_private=true" alt="RicardoMarcal" /></div>
     <br />
+    <div align="center"><img width="448" src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoMarcal&show_icons=true&locale=en&layout=compact&theme=gotham&langs_count=8" alt="RicardoMarcal" /></div>
     <br />
-    <div align="center"><img width="512" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RicardoMarcal&show_icons=true&locale=en&layout=compact&theme=prussian&langs_count=8" alt="RicardoMarcal" /></div>
-    <br />
-    <br />
-    <div align="center"><img width="512" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=RicardoMarcal&theme=prussian&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="RicardoMarcal" /></div>
+    <div align="center"><img width="448" style src="http://github-readme-streak-stats.herokuapp.com?user=RicardoMarcal&theme=gotham&date_format=j%20M%5B%20Y%5D" alt="RicardoMarcal" /></div>
 </a>
 <!---
    RicardoMarcal/RicardoMarcal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
