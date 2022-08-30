@@ -78,6 +78,9 @@
     <a href="https://www.python.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40" />
     </a>
+    <a href="https://www.java.com/" target="_blank">
+        <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="java" width="40" height="40" />
+    </a>
     <a href="https://www.docker.com/" target="_blank">
         <img src="https://cdn-icons-png.flaticon.com/512/919/919853.png" alt="docker" width="40" height="40" />
     </a>
