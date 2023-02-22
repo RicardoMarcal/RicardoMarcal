@@ -42,8 +42,12 @@
     <a href="https://expressjs.com" target="_blank">
         <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" alt="express" width="40" height="40" />
     </a>
+    <a href="https://nestjs.com/" target="_blank">
+        <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40" />
+    </a>
     <a href="https://adonisjs.com/" target="_blank">
         <img src="https://avatars.githubusercontent.com/u/13810373?s=280&v=4" alt="adonisjs" width="40" height="40" />
+    </a>
     <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40" />
     </a>
