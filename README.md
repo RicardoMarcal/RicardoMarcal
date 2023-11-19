@@ -5,7 +5,7 @@
 <br />
 
 <div align="center">
-    <h2>Stack princiapl:</h2>
+    <h2>Stack principal:</h2>
     <a href="https://nodejs.org" target="_blank">
         <img src="https://ricardomarcal.github.io/images/NodeJs.png" alt="nodejs" width="40" height="40" />
     </a>
