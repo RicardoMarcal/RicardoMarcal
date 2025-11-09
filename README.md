@@ -1,6 +1,10 @@
 <a href="https://github.com/RicardoMarcal/RicardoMarcal/tree/english">English version</a>
 <h1 align="center">Olá, eu sou o Ricardo ☂️</h1>
-<p>Tenho interesse em tudo relacionado ao desenvolvimento web. Atualmente a principal lingugem que trabalho é TypeScript com as frameworks Next ou SvelteKit para frontend e Nest para backend. Sempre busco ser ativo na comunidade de programação 💙</p>
+<p>Tenho interesse em tudo relacionado à ciência de dados e ao desenvolvimento web. Atualmente as principais lingugem que trabalho são Python e TypeScript com as frameworks Next ou SvelteKit para frontend; Nest, Django e FastAPI para backend; e as mais diversas bibliotecas de dados e aprendizado de máquina para ciência de dados. Sempre busco ser ativo na comunidade de programação 💙</p>
+
+<h3>
+<a href="https://colab.research.google.com/drive/1JsS2zqVKeSlihohwaEyWWhARvJE6hwSf?usp=sharing" target="_blank">[Clique aqui!] COLAB Recomendação (SECOMP)</a>
+</h3>
 
 <br />
 
